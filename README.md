@@ -1,2 +1,4 @@
-# Workintech
-Workintech Fullstack Developer Bootcamp
+# Workintech Bootcamp
+Workintech Front-End Developer Bootcamp Projects
+
+41 Projects Total
