@@ -1,0 +1,114 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 9,
+  "numPassedTests": 9,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1724224009630,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxe QueryClientProvider eklenmiş",
+          "status": "passed",
+          "title": "App.jsxe QueryClientProvider eklenmiş",
+          "duration": 24,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " SideBar componentinde useEffect kaldırılmış",
+          "status": "passed",
+          "title": "SideBar componentinde useEffect kaldırılmış",
+          "duration": 4,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Contact componentinde useEffect kaldırılmış",
+          "status": "passed",
+          "title": "Contact componentinde useEffect kaldırılmış",
+          "duration": 7,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Contactlar listeleniyor",
+          "status": "passed",
+          "title": "Contactlar listeleniyor",
+          "duration": 5,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " New Butonu Çalışıyor",
+          "status": "passed",
+          "title": "New Butonu Çalışıyor",
+          "duration": 39,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Yeni kullanıcı kayıt ediliyor",
+          "status": "passed",
+          "title": "Yeni kullanıcı kayıt ediliyor",
+          "duration": 143,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Home Butonu Çalışıyor",
+          "status": "passed",
+          "title": "Home Butonu Çalışıyor",
+          "duration": 17,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kullanıcı detaylarını gösteriyor",
+          "status": "passed",
+          "title": "Kullanıcı detaylarını gösteriyor",
+          "duration": 20,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kullanıcıyı siliyor",
+          "status": "passed",
+          "title": "Kullanıcıyı siliyor",
+          "duration": 30,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1724226612977,
+      "endTime": 1724226613267,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/atilimkocak/Documents/My_Projects/Workintech/Sprint-10/Lesson-4/Project-1/src/__tests__/index.test.jsx"
+    }
+  ]
+}

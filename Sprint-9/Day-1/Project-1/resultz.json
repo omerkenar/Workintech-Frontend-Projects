@@ -1,0 +1,84 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 6,
+  "numPassedTests": 6,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1723462732273,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App jsx'e ToastContainer eklenmiş",
+          "status": "passed",
+          "title": "App jsx'e ToastContainer eklenmiş",
+          "duration": 18,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App jsx'e toast css'i eklenmiş",
+          "status": "passed",
+          "title": "App jsx'e toast css'i eklenmiş",
+          "duration": 4,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login component'inde toastify success mesajı kullanılmış",
+          "status": "passed",
+          "title": "Login component'inde toastify success mesajı kullanılmış",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login component'inde toastify error mesajı kullanılmış",
+          "status": "passed",
+          "title": "Login component'inde toastify error mesajı kullanılmış",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başarılı girişte \"Merhaba {userName}, tekrar hoş geldin.\" mesajı çıkıyor.",
+          "status": "passed",
+          "title": "Başarılı girişte \"Merhaba {userName}, tekrar hoş geldin.\" mesajı çıkıyor.",
+          "duration": 148,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Kayıtlı olmayan kullanıcı girişinde \"Girdiğiniz bilgilerle bir kullanıcı bulamadık.\" mesajı çıkıyor.",
+          "status": "passed",
+          "title": "Kayıtlı olmayan kullanıcı girişinde \"Girdiğiniz bilgilerle bir kullanıcı bulamadık.\" mesajı çıkıyor.",
+          "duration": 106,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1723462732936,
+      "endTime": 1723462733217,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/atilimkocak/Documents/My_Projects/Workintech/Sprint-9/Lesson-1/Project-1/src/__tests__/index.test.jsx"
+    }
+  ]
+}

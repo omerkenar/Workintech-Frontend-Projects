@@ -1,0 +1,40 @@
+/* css-1 sayfadaki tüm yazılar için 'poller One' yazı karaketerini google fonts'tan yükleyin ve kullanın.*/
+body {
+  font-family: 'Poller One';
+}
+
+.gallery-section {
+  width: 80%;
+  margin: auto;
+}
+
+.image-card {
+  width: 300px;
+  margin: 20px auto;
+  border-radius: 20px;
+  border: 2px solid black;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* 
+css-2 resmin belirlenen ölçülere sığması, taşan kısımlarının otomatik kesilmesini ayarlayalım.
+css-3 resmi kesince chewbecca'nın kafasını da kesti. resmi yatayda ortalı ama yukarı dayalı yapalım. 
+css-4 üst sol ve sağ border'ın yuvarlaklığını 10px yapalım.
+*/
+img {
+  object-fit: cover;
+  object-position: 50% 0;
+  width: 100%;
+  display: block;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  aspect-ratio: 3/4;
+}
+
+/* css-5 h1 ve h2'de font'un css ile büyük harf olmasını sağlayalım */
+h1,
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+}

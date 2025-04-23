@@ -1,0 +1,115 @@
+/* Sayfamızdaki bütün elemanların sınırlarını görebilmek için geçici bir çizgi ekleyebiliriz. Bunu proje sonunda silebilirsiniz. */
+* {
+  border: none;
+}
+
+/* css-1 sayfanın kenarındaki boşlukları body tag'i ile sıfırlayın ve minimum genişliğini 750px yapın */
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 750px;
+}
+
+.btn {
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+/* css-2 active isimli bir class için arkaplan'ı siyah yapın, yazılar beyaz olsun */
+.active {
+  background: black;
+  color: white;
+}
+
+/*. **** header **** */
+
+/* css-3 header içindeki 2 item'ı aralıkları eşit olacak şekilde sağa-sola yaslayalım */
+header {
+  margin: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* css-4 headerdaki h2 için metni sola yaslayalım */
+header h2 {
+  text-align: left;
+}
+
+/* css-5 headerdaki navigasyon bölümü için flex kullanalım ve flex-item'ların dikeyde ortalayalım. */
+header nav {
+  display: flex;
+  align-items: center;
+}
+
+nav a {
+  padding: 15px 20px;
+  border: 1px solid black;
+  background-color: gray;
+  color: white;
+  text-decoration: none;
+}
+
+/* **** Banner **** */
+/* css-6 .banner-section içindeki item'ların yatay ve dikey'de ortalı olmasını sağlayalım.*/
+/* css-7 .banner-section'ın genişliği ekranın %80'i olsun ve en/boy oranı 4/3 olsun.*/
+/* css-8 .banner-section'ı yukarıdan ve aşağıdan dışta %5'lik boşluk bırakalım ve yatayda ortalı olmasını sağlayalım */
+/* css-9 ne eksik? */
+.banner-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  width: 80%;
+  aspect-ratio: 4/3;
+  margin: 5% auto;
+  background: gray;
+}
+
+/* **** Projects **** */
+/* 
+  css-10 projects-section class'ında;
+  display flex uygulayalım, 
+  itemların arası eşit olsun.
+  satıra sığmayanlar aşağı kaysın
+  satırlar arası 30px boşluk olsun
+  yazılar ortalansın
+*/
+.projects-section {
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  row-gap: 30px;
+  text-align: center;
+}
+
+/* css-11 projects-item'ların genişliği %30 olsun */
+.projects-item {
+  width: 30%;
+}
+
+/* 
+css-12 projects-section clasındaki resimlerin;
+genişliği bulunduğu alanın tamamı olsun
+en/boy oranı 1/1 olsun
+arkaplanı gray olsun 
+*/
+.projects-section img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  background: gray;
+}
+
+/* **** footer **** */
+footer {
+  width: 100%;
+  background: gray;
+  padding: 20px 0;
+}
+
+/* css-13  footer'daki button block olsun*/
+footer button {
+  margin: 20px auto;
+  display: block;
+}

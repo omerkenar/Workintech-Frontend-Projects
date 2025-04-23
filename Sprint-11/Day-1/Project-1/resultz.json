@@ -1,0 +1,224 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 20,
+  "numPassedTests": 20,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1724227628772,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " contexts klasöründe CartContext.Provider oluşturulmuş",
+          "status": "passed",
+          "title": "contexts klasöründe CartContext.Provider oluşturulmuş",
+          "duration": 22,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " CartContext.jsx dosyasında createContext() ile context oluşturulmuş",
+          "status": "passed",
+          "title": "CartContext.jsx dosyasında createContext() ile context oluşturulmuş",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " CartContext.jsx dosyasında CartContext.Provider tanımlanmış",
+          "status": "passed",
+          "title": "CartContext.jsx dosyasında CartContext.Provider tanımlanmış",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " contexts klasöründe CartContext Providera valuelar aktarılmış",
+          "status": "passed",
+          "title": "contexts klasöründe CartContext Providera valuelar aktarılmış",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " contexts klasöründe ProductContext.jsx dosyası oluşturulmuş",
+          "status": "passed",
+          "title": "contexts klasöründe ProductContext.jsx dosyası oluşturulmuş",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " CartContext.jsx dosyasında createContext() ile context oluşturulmuş",
+          "status": "passed",
+          "title": "CartContext.jsx dosyasında createContext() ile context oluşturulmuş",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " CartContext.jsx dosyasında CartContext.Provider tanımlanmış",
+          "status": "passed",
+          "title": "CartContext.jsx dosyasında CartContext.Provider tanımlanmış",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " contexts klasöründe CartContext Providera valuelar aktarılmış",
+          "status": "passed",
+          "title": "contexts klasöründe CartContext Providera valuelar aktarılmış",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde oluşturulan her 2 provider da kullanılmış",
+          "status": "passed",
+          "title": "App.jsxde oluşturulan her 2 provider da kullanılmış",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde useStateler (import ve tanımlamalar) silinmiş",
+          "status": "passed",
+          "title": "App.jsxde useStateler (import ve tanımlamalar) silinmiş",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde Products componentine gönderilen proplar (products, addItem) silinmiş",
+          "status": "passed",
+          "title": "App.jsxde Products componentine gönderilen proplar (products, addItem) silinmiş",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde Navigation componentine gönderilen prop (cart) silinmiş",
+          "status": "passed",
+          "title": "App.jsxde Navigation componentine gönderilen prop (cart) silinmiş",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde ShoppingCart componentine gönderilen prop (cart) silinmiş",
+          "status": "passed",
+          "title": "App.jsxde ShoppingCart componentine gönderilen prop (cart) silinmiş",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " contextAPI eklendikten sonra ana sayfa 4 kitabı da geririyor.",
+          "status": "passed",
+          "title": "contextAPI eklendikten sonra ana sayfa 4 kitabı da geririyor.",
+          "duration": 4,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " İlk kitapta Add to cart butonuna tıklanınca sağ üst cartta 1 yazıyor",
+          "status": "passed",
+          "title": "İlk kitapta Add to cart butonuna tıklanınca sağ üst cartta 1 yazıyor",
+          "duration": 30,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " İkinci kitapta Add to cart butonuna tıklanınca sağ üst cartta 2 yazıyor",
+          "status": "passed",
+          "title": "İkinci kitapta Add to cart butonuna tıklanınca sağ üst cartta 2 yazıyor",
+          "duration": 13,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " İlk kitapta Add to cart butonuna tıklanınca sepete ekliyor",
+          "status": "passed",
+          "title": "İlk kitapta Add to cart butonuna tıklanınca sepete ekliyor",
+          "duration": 31,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Cart sayfasında Remove from cart kitabı sepetten çıkarıyor",
+          "status": "passed",
+          "title": "Cart sayfasında Remove from cart kitabı sepetten çıkarıyor",
+          "duration": 20,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Cart bilgisi localStoragea s11g1 keyi ile saklanıyor",
+          "status": "passed",
+          "title": "Cart bilgisi localStoragea s11g1 keyi ile saklanıyor",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Cart bilgisi localStorageda güncelleniyor",
+          "status": "passed",
+          "title": "Cart bilgisi localStorageda güncelleniyor",
+          "duration": 28,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1724315489844,
+      "endTime": 1724315490017,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/atilimkocak/Documents/My_Projects/Workintech/Sprint-11/Lesson-1/Project-1/src/__tests__/index.test.jsx"
+    }
+  ]
+}

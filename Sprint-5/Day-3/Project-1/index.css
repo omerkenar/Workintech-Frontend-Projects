@@ -1,0 +1,27 @@
+html,
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: 'Roboto', sans-serif;
+  background-color: #4b7997;
+}
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  min-height: calc(100vh - 4rem);
+  box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+.button-container {
+  padding: 1rem;
+}
+
+.button-container > * {
+  margin: 0.5rem;
+}

@@ -1,0 +1,27 @@
+section {
+  text-align: center;
+  min-width: 750px;
+}
+
+/* css-1 resimleri kendi aralarında aynı satırda dikey ortalayın */
+/* css-2 resimleri bulunduğu alana sığmasını sağlayın.  */
+img {
+  width: 15%;
+  margin: 1%;
+  vertical-align: middle;
+  object-fit: cover;
+  border: 1px solid black;
+}
+
+/* css-3 ince class'ına sahip resimler için en boy oranını 5/1 yapın */
+img.ince {
+  aspect-ratio: 5/1;
+}
+/* css-4 orta class'ına sahip resimler için en boy oranını 5/3 yapın */
+img.orta {
+  aspect-ratio: 5/3;
+}
+/* css-5 tam class'ına sahip resimler için en boy oranını 5/5 yapın */
+img.tam {
+  aspect-ratio: 5/5;
+}

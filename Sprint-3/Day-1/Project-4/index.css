@@ -1,0 +1,40 @@
+.container {
+  width: 750px;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+  font-family: Bangers;
+}
+
+h2 {
+  font-family: Bangers;
+}
+
+/* css-1 sıralı olmayan bir liste için doğru tag'e aşağıdaki kuralları ekleyin:
+[ ] sol tarafında yuvarlak buton olmasın
+[ ] listenin her maddesinde soldan girinti olmaması için iç boşluğu 0 yapın
+[ ] satır yüksekliğini 150% yapın */
+
+ul {
+  list-style-type: none;
+  line-height: 150%;
+  padding: 0;
+}
+
+img {
+  width: 100%;
+}
+footer {
+  text-align: center;
+  margin: 40px 0 20px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #b0b0b0;
+}
+
+footer a.bold {
+  font-weight: bold;
+}

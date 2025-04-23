@@ -1,0 +1,22 @@
+body {
+  font-family: Montserrat;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2px 1px;
+}
+
+/* Adım 3: Kodları buraya yazınız */
+.container {
+  width: 750px;
+  margin: 0 auto;
+}
+
+header nav a {
+  color: gray;
+  text-decoration: none;
+  padding: 20px 10px;
+}

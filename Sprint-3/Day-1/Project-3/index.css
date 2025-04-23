@@ -1,0 +1,68 @@
+html,
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.container {
+  width: 880px;
+  margin: auto;
+}
+
+h1 {
+  font-family: Bangers;
+  text-align: center;
+  margin: 30px;
+}
+
+/* css-1 h2 tag'i için yazı karakterleri Bangers olsun*/
+/* css-2 h2 tag'i için terms resmi sola yaslı olunca başlık metni sağa kayıyor. düzeltelim.*/
+h2 {
+  letter-spacing: 1px;
+  margin: 25px 0;
+  font-family: Bangers;
+  clear: both;
+}
+
+/* css-3 sayfadaki tüm resimler için:
+aşağısında 25px boşluk olmalı
+genişliği 200px olmalı
+kenarlarının yuvarlaklığı 20px olmalı*/
+
+img {
+  margin-bottom: 25px;
+  width: 200px;
+  border-radius: 20px;
+}
+
+/* css-4 left-img class'ı için css kuralları ayarlayınız:
+resim sola yaslı olmalı
+sağındaki metin ile arasında 30px boşluk olmalı*/
+.left-img {
+  float: left;
+  margin-right: 30px;
+}
+
+/* css-5 right-img class'ı için css kuralları ayarlayınız:
+resim sağa yaslı olmalı
+solundaki metin ile arasında 30px boşluk olmalı*/
+
+.right-img {
+  float: right;
+  margin-left: 30px;
+}
+
+/* css-6 footer için copyright metni sola itiliyor(takvim resmi sağa yaslı olduğu için). düzeltelim.*/
+footer {
+  text-align: center;
+  margin: 40px 0 20px;
+  clear: both;
+}
+
+footer a {
+  text-decoration: none;
+  color: #b0b0b0;
+}
+
+footer a.bold {
+  font-weight: bold;
+}

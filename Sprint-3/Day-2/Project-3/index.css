@@ -1,0 +1,145 @@
+/* css-1. sayfanın kenarlarında boşluklar var. bunları yok edelim ve sayfadaki default font'u 'Roboto Mono' yapalım */
+body {
+  font-family: 'Roboto Mono';
+  margin: 0;
+  padding: 0;
+}
+
+/* css-2. container isimli class için genişliği 750px ayarlayalım ortalamak için dış boşlukları '0 auto' ayarlayalım.!*/
+.container {
+  width: 750px;
+  margin: 0 auto;
+}
+
+/* css-3.  nav a için;
+  genişlik %18 olsun, 
+  yükseklik %3 olsun. 
+  arkaplan rengi #5ED3EB,
+  yazı rengi beyaz olsun,
+  yazının altı çizili olmasın
+  kenarları 10px ile yuvarlatılsın
+  yazı ortalansın.
+  */
+nav a {
+  width: 18%;
+  height: 3%;
+  background-color: #5ed3eb;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  text-align: center;
+  margin: 10px 10%;
+  padding: 20px 20px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* css-4. nav a'nın ilk child olduğu durum için;
+  arkaplan rengi: #FF764E olsun,
+  iç boşlukları yukarı-aşağı için 10px, sol-sağ için 20px olsun
+  dış boşlukları için yukarı-aşağı için 10px, sol-sağ için 1% olsun
+  */
+nav a:first-child {
+  background-color: #ff764e;
+  padding: 10px 20px;
+  margin: 10px 1%;
+}
+
+/* css-5. nav a'nın son child olduğu durum için;
+  arkaplan rengi: #FFCD69 olsun
+  dış boşlukları için yukarı-aşağı için 10px, sol-sağ için 1% olsun 
+*/
+nav a:last-child {
+  background-color: #ffcd69;
+  margin: 10px 1%;
+}
+
+/* ***** main-section ****** */
+
+/* css-6. main-section class'ına sahip bir element içindeki tüm image'lar için;
+  kenar yuvarlaklığı: 100%,
+  genişlik 30%
+  dış boşlukları için yukarı-aşağı için 10%, sol-sağ için 2% olsun
+  dikey-hizası middle olsun.
+*/
+.main-section img {
+  border-radius: 100%;
+  width: 30%;
+  margin: 10% 2%;
+  vertical-align: middle;
+}
+
+/* css-7. main-content class'ı;
+  inline-block olsun,
+  dikey-hizası middle olsun.
+  genişlik 60% olsun,
+  metinler ortaya hizalansın.
+*/
+.main-content {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60%;
+  text-align: center;
+}
+
+/* css-8. heading 1 tag'i için font'lar 'Chelsea Market' olsun. */
+h1 {
+  font-family: 'Chelsea Market';
+}
+
+/* ***** info-section ***** */
+
+/* css-9. .info-section class'ı için;
+  arkaplan rengi #DDB9A3 olsun
+  iç boşlukları yukarı-aşağı için 10px, sol-sağ için 20px olsun
+  yazı rengi beyaz olsun
+  kenar yuvarlaklığı 20px olsun
+  */
+.info-section {
+  background-color: #ddb9a3;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 20px;
+}
+
+/* ***** features ***** */
+
+.features-card {
+  width: 40%;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.features-card img {
+  width: 40%;
+}
+
+/* css-10. emphasize class'ı için yazılar bold olsun */
+.emphasize {
+  font-weight: bold;
+}
+
+/* footer */
+
+/* css-11. footer arkaplan rengi #F9E7DC ve min-genişliği 750px olsun */
+footer {
+  background-color: #f9e7dc;
+  min-width: 750px;
+}
+
+/* css-12. footer içindeki image için;
+  genişlik: 100% olsun,
+  yükseklik: 150px olsun,
+  resim'den taşan yerler kırpılsın ve resim alanı kaplasın,
+  resim, bulunduğu alana göre kendini yatay'da ortalasın(50%), dikeyde %20 aşağı kaysın.
+  */
+footer img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  object-position: 50% 20%;
+}
+
+footer nav {
+  padding: 2% 0;
+}

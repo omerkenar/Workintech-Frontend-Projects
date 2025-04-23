@@ -1,0 +1,94 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 7,
+  "numPassedTests": 7,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1723463613225,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " darkMode hooku için dosya ismi readmede istendiği gibi doğru ayarlanmış",
+          "status": "passed",
+          "title": "darkMode hooku için dosya ismi readmede istendiği gibi doğru ayarlanmış",
+          "duration": 138,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " localStorage hooku için dosya ismi readmede istendiği gibi doğru ayarlanmış",
+          "status": "passed",
+          "title": "localStorage hooku için dosya ismi readmede istendiği gibi doğru ayarlanmış",
+          "duration": 112,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " darkMode hooku react hookları gibi named export olarak tanımlanmış. (default export değil)",
+          "status": "passed",
+          "title": "darkMode hooku react hookları gibi named export olarak tanımlanmış. (default export değil)",
+          "duration": 72,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " localStorage hooku named export olarak tanımlanmış. (default export değil)",
+          "status": "passed",
+          "title": "localStorage hooku named export olarak tanımlanmış. (default export değil)",
+          "duration": 61,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Navbar.jsx deki darkMode butonu App.jsx dosyasında en üstteki div e dark-mode classını ekliyor.",
+          "status": "passed",
+          "title": "Navbar.jsx deki darkMode butonu App.jsx dosyasında en üstteki div e dark-mode classını ekliyor.",
+          "duration": 118,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " darkMode uygulamanın ilk renderında localStoragea false başlangıç değeri ile kaydediliyor.",
+          "status": "passed",
+          "title": "darkMode uygulamanın ilk renderında localStoragea false başlangıç değeri ile kaydediliyor.",
+          "duration": 59,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " darkMode localStorage a her değiştiğinde kaydediliyor.",
+          "status": "passed",
+          "title": "darkMode localStorage a her değiştiğinde kaydediliyor.",
+          "duration": 125,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1723463614085,
+      "endTime": 1723463614770,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/atilimkocak/Documents/My_Projects/Workintech/Sprint-9/Lesson-3/Project-2/src/__tests__/index.test.jsx"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 17,
+  "numPassedTests": 16,
+  "numFailedTests": 1,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1724328023760,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " contexts klasöründe AuthContext.jsx isimli Context Provider Componenti dosyası oluşturulmuş",
+          "status": "passed",
+          "title": "contexts klasöründe AuthContext.jsx isimli Context Provider Componenti dosyası oluşturulmuş",
+          "duration": 17,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " AuthContext.jsx dosyasında createContext() ile context oluşturulmuş",
+          "status": "passed",
+          "title": "AuthContext.jsx dosyasında createContext() ile context oluşturulmuş",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " AuthContext.jsx dosyasında AuthContext.Provider tanımlanmış",
+          "status": "passed",
+          "title": "AuthContext.jsx dosyasında AuthContext.Provider tanımlanmış",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " contexts klasöründe AuthContext Providera valuelar aktarılmış",
+          "status": "passed",
+          "title": "contexts klasöründe AuthContext Providera valuelar aktarılmış",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde oluşturulan provider kullanılmış",
+          "status": "passed",
+          "title": "App.jsxde oluşturulan provider kullanılmış",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " components klasöründe PrivateRoute.jsx isimli protected route componenti oluşturulmuş",
+          "status": "passed",
+          "title": "components klasöründe PrivateRoute.jsx isimli protected route componenti oluşturulmuş",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " PrivateRoute.jsx dosyasında login sayfasına redirect kullanılmış",
+          "status": "passed",
+          "title": "PrivateRoute.jsx dosyasında login sayfasına redirect kullanılmış",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde oluşturulan protected route componenti kullanılmış",
+          "status": "passed",
+          "title": "App.jsxde oluşturulan protected route componenti kullanılmış",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " main.jsxde routing için uygulama BrowserRouter ile sarmalanmış",
+          "status": "passed",
+          "title": "main.jsxde routing için uygulama BrowserRouter ile sarmalanmış",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde routelar eklenmiş",
+          "status": "passed",
+          "title": "App.jsxde routelar eklenmiş",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Sayfa yüklendiğinde, login sayfası çıkıyor. headerda sadece login butonu var",
+          "status": "passed",
+          "title": "Sayfa yüklendiğinde, login sayfası çıkıyor. headerda sadece login butonu var",
+          "duration": 4,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login formu submit edildiğinde login oluyor. Headerda FRIENDS LIST, ADD FRIEND butonu görünüyor.",
+          "status": "passed",
+          "title": "Login formu submit edildiğinde login oluyor. Headerda FRIENDS LIST, ADD FRIEND butonu görünüyor.",
+          "duration": 94,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login olunca headerda logout butonu görünüyor, login butonu kayboluyor",
+          "status": "failed",
+          "title": "Login olunca headerda logout butonu görünüyor, login butonu kayboluyor",
+          "duration": 5,
+          "failureMessages": [
+            "expected <h1></h1> to be null // Object.is equality"
+          ],
+          "location": {
+            "line": 124,
+            "column": 39
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Logout olunca login sayfası açılıyor",
+          "status": "passed",
+          "title": "Logout olunca login sayfası açılıyor",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " FRIENDS LIST sayfasında isimler doğru formatta -isim-email şeklinde görüntüleniyor",
+          "status": "passed",
+          "title": "FRIENDS LIST sayfasında isimler doğru formatta -isim-email şeklinde görüntüleniyor",
+          "duration": 77,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login bilgisi localStorageda s11d2 anahtarı ile tutuluyor",
+          "status": "passed",
+          "title": "Login bilgisi localStorageda s11d2 anahtarı ile tutuluyor",
+          "duration": 69,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Login bilgisi logout olunca localStoragedan siliniyor",
+          "status": "passed",
+          "title": "Login bilgisi logout olunca localStoragedan siliniyor",
+          "duration": 11,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1724424154096,
+      "endTime": 1724424154395,
+      "status": "failed",
+      "message": "",
+      "name": "/Users/atilimkocak/Documents/My_Projects/Workintech/Sprint-11/Lesson-2/Project-1/src/__tests__/index.test.jsx"
+    }
+  ]
+}

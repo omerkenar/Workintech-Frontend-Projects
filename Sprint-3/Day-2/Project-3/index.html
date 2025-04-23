@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- 
+      **** Önce head bölümünde gerekli ayarları yapalım:  ****
+      html-0. karakter seetimizi UTF-8 yapalım
+      html-1. CSS dosyanızı linkleyin
+      html-2. Chelsea Market ve Roboto Mono fontlarını google fontlardan linkleyin
+      html-3. Sayfanın başlığını ayarlayın 'Peri Bacaları Tanıtımı'
+    -->
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Chelsea Market"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto Mono"
+    />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <title>Peri Bacaları Tanıtımı</title>
+  </head>
+
+  <body>
+    <!-- 
+      **** header  ****
+      html-4. header bölümünü ekleyin, class'ı container olsun
+      html-5. anchor tagler kullanarak navigasyon bölümünü ekleyin-
+    -->
+    <header class="container">
+      <nav>
+        <a href="gezinizi_planlayin.html">Gezinizi Planlayın</a>
+        <a href="bilgi_edinin.html">Bilgi edinin</a>
+        <a href="karsilatirin.html">Karşılaştırın</a>
+      </nav>
+    </header>
+    <!-- html-6. bölüm(section) ekleyin, class'ı main-section ve container olsun-->
+    <section class="main-section container">
+      <!-- html-7. "header_img.jpg" -->
+      <img src="./assets/header_img.jpg" alt="header_img" />
+      <!-- html-8. tagleri gruplayın ve class'ını main-content yapın -->
+      <div class="main-content">
+        <!-- html-9. uygun bir başlık tag'i kullanın -->
+        <h1>Peri Bacaları Tanıtımı</h1>
+        <!-- html-10. 2 cümleyi uygun tag ile ekleyin -->
+        <p>
+          Peri Bacaları Tanıtımı Gelin ve Nevşehir'in gizli güzelliklerini
+          keşfedin.
+        </p>
+        <!-- -->
+        <p>Sürekli açık. Ziyaret için rezervasyona gerek yoktur.</p>
+      </div>
+    </section>
+    <!-- html-11. bölüm ekleyin, class'ı info-section ve container olsun -->
+    <section class="info-section container">
+      <!-- html-12. iki paragraf ekleyin -->
+      <p>
+        Sadece ülkemizin değil, dünyanın en gizemli yerlerinden biri olan
+        Kapadokya'yı gezerken derin bir merak duyduğunuzu biliyoruz. 'Peri
+        bacaları nasıl oluştu, insanlar peri bacalarının içlerini ustalıkla
+        nasıl oydu, bu yeraltı şehirlerini kimler yaptı, o kadar insan yerin
+        altında nasıl yaşadı' diye binlerce soru geliyor gezginin aklına.
+      </p>
+
+      <!-- -->
+      <p>
+        Peri bacaları oluşumunun bilimsel açıklaması olmasına rağmen mistik
+        havasının da şöyle düşündürdüğü biliyoruz; 'Kapadokya eskiden perilerin
+        cenneti miydi, yoksa doğa bir mucize mi göstermek istedi!'
+      </p>
+    </section>
+    <!-- html-13. bölüm ekleyin, class'ı features-section ve container olsun-->
+    <section class="features-section container">
+      <!-- html-14. tagleri gruplayın ve class'ını features-card yapın -->
+      <div class="features-card">
+        <!-- html-15. "hot-air-balloon.svg" -->
+        <img src="assets/hot-air-balloon.svg" alt="hot-air-balloon" />
+        <!-- html-16. paragraf ekleyin ve vurgulanan kelimeleri gruplayarak(span) class'ını emphasize yapın -->
+        <p>
+          Kapadokya denilince akla ilk gelen şeylerden birisi de şüphesiz sıcak
+          hava balonları ile yapılan turlar. Her sabah gün doğumundan önce
+          yüzlerce sıcak hava balonlarından oluşan konvoy ile Kapadokya'nın
+          eşsiz güzellikteki manzaralarını havadan izlemek katılımcılar için
+          gerçekten
+          <span class="emphasize">olağanüstü ve rüya gibi bir deneyim.</span>
+        </p>
+      </div>
+      <!-- html-17. tagleri gruplayın ve class'ını features-card yapın -->
+      <div class="features-card">
+        <!-- html-18.  "atv.svg" -->
+        <img src="assets/atv.svg" alt="atv" />
+        <!-- html-19. paragraf ekleyin ve vurgulanan kelimeleri gruplayarak(span) class'ını emphasize yapın -->
+        <p>
+          ATV turları, Kapadokya'yı gezmenin heyecan verici, eğlenceli ve farklı
+          bir yoludur. Bölgenin eşsiz ve muhteşem vadileri,
+          <span class="emphasize">dünyanın en iyi ATV turlarından birini</span>
+          deneyimlemenize fırsat verir. ATV turlarının herkes için uygun bir
+          aktivite olduğunu söylemeliyiz.
+        </p>
+      </div>
+    </section>
+    <!--html-20. footer ekleyin -->
+    <footer>
+      <!-- html-21. "footer_img.jpg" -->
+      <img src="assets/footer_img.jpg" alt="footer" />
+      <!-- html-22. anchor tagler kullanarak bölümünü ekleyin-->
+      <nav class="container">
+        <a href="gezinizi_planlayin.html">Gezinizi Planlayın</a>
+        <a href="bilgi_edinin.html">Bilgi edinin</a>
+        <a href="karsilatirin.html">Karşılaştırın</a>
+      </nav>
+    </footer>
+  </body>
+</html>

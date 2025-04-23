@@ -1,0 +1,306 @@
+{
+  "numTotalTestSuites": 3,
+  "numPassedTestSuites": 3,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 21,
+  "numPassedTests": 12,
+  "numFailedTests": 9,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1723468106676,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " \"Nasıl hissettiğimi bilmiyorum :-|\" yazısı ile başlıyor.",
+          "status": "failed",
+          "title": "\"Nasıl hissettiğimi bilmiyorum :-|\" yazısı ile başlıyor.",
+          "duration": 23,
+          "failureMessages": [
+            "Unable to find an element with the text: /Nasıl hissettiğimi bilmiyorum/i. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 37,
+            "column": 19
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " İlk başlangıçta yazı rengi crimson.",
+          "status": "failed",
+          "title": "İlk başlangıçta yazı rengi crimson.",
+          "duration": 3,
+          "failureMessages": [
+            "Unable to find an element with the text: /Nasıl hissettiğimi bilmiyorum/i. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 37,
+            "column": 19
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Mutlu Et butonuna tıklanınca metin \"Oldukça mutlu :)\" oluyor",
+          "status": "failed",
+          "title": "Mutlu Et butonuna tıklanınca metin \"Oldukça mutlu :)\" oluyor",
+          "duration": 1008,
+          "failureMessages": [
+            "Unable to find an element with the text: /Oldukça mutlu/i. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 162,
+            "column": 27
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Mutlu Et butonuna tıklanınca metin rengi royal blue oluyor",
+          "status": "failed",
+          "title": "Mutlu Et butonuna tıklanınca metin rengi royal blue oluyor",
+          "duration": 1007,
+          "failureMessages": [
+            "Unable to find an element with the text: /Oldukça mutlu/i. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 162,
+            "column": 27
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Üz butonuna tıklanınca metin \"Oldukça üzgün :(\" oluyor",
+          "status": "failed",
+          "title": "Üz butonuna tıklanınca metin \"Oldukça üzgün :(\" oluyor",
+          "duration": 1014,
+          "failureMessages": [
+            "Unable to find an element with the text: /Oldukça üzgün/i. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 162,
+            "column": 27
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Üz butonuna tıklanınca metin rengi crimson oluyor",
+          "status": "failed",
+          "title": "Üz butonuna tıklanınca metin rengi crimson oluyor",
+          "duration": 1009,
+          "failureMessages": [
+            "Unable to find an element with the text: /Oldukça üzgün/i. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 162,
+            "column": 27
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Reset butona tıklanınca metin \"Nasıl hissettiğimi bilmiyorum :-|\" oluyor",
+          "status": "failed",
+          "title": "Reset butona tıklanınca metin \"Nasıl hissettiğimi bilmiyorum :-|\" oluyor",
+          "duration": 1008,
+          "failureMessages": [
+            "Unable to find an element with the text: /Nasıl hissettiğimi bilmiyorum/i. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 162,
+            "column": 27
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Reset butonuna tıklanınca metin rengi crimson oluyor",
+          "status": "failed",
+          "title": "Reset butonuna tıklanınca metin rengi crimson oluyor",
+          "duration": 1008,
+          "failureMessages": [
+            "Unable to find an element with the text: /Nasıl hissettiğimi bilmiyorum/i. This could be because the text is broken up by multiple elements. In this case, you can provide a function for your text matcher to make your matcher more flexible.\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m\n\nIgnored nodes: comments, script, style\n\u001b[36m<body>\u001b[39m\n  \u001b[36m<div>\u001b[39m\n    \u001b[36m<div\u001b[39m\n      \u001b[33mclass\u001b[39m=\u001b[32m\"widget-moods container\"\u001b[39m\n    \u001b[36m>\u001b[39m\n      \u001b[36m<h2>\u001b[39m\n        \u001b[0mRuhHalleri\u001b[0m\n      \u001b[36m</h2>\u001b[39m\n      \u001b[36m<div\u001b[39m\n        \u001b[33mid\u001b[39m=\u001b[32m\"ruhHali\"\u001b[39m\n        \u001b[33mstyle\u001b[39m=\u001b[32m\"font-size: 1.5em; margin-bottom: 0.3em; color: royalblue;\"\u001b[39m\n      \u001b[36m>\u001b[39m\n        \u001b[0mNasıl hissediyorum bilmiyorum :-|\u001b[0m\n      \u001b[36m</div>\u001b[39m\n      \u001b[0m \u001b[0m\n      \u001b[36m<div>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"mutluEt\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mMutlu Et\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"uz\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mÜz\u001b[0m\n        \u001b[36m</button>\u001b[39m\n        \u001b[36m<button\u001b[39m\n          \u001b[33mid\u001b[39m=\u001b[32m\"resetRuhHali\"\u001b[39m\n        \u001b[36m>\u001b[39m\n          \u001b[0mReset\u001b[0m\n        \u001b[36m</button>\u001b[39m\n      \u001b[36m</div>\u001b[39m\n    \u001b[36m</div>\u001b[39m\n  \u001b[36m</div>\u001b[39m\n\u001b[36m</body>\u001b[39m"
+          ],
+          "location": {
+            "line": 162,
+            "column": 27
+          }
+        }
+      ],
+      "startTime": 1723468107133,
+      "endTime": 1723468113213,
+      "status": "failed",
+      "message": "",
+      "name": "/Users/atilimkocak/Documents/My_Projects/Workintech/Sprint-6/Lesson-1/Project-1/src/__tests__/RuhHalleri.test.jsx"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " \"Sayı: 0 çift sayıdır\" yazısı ile başlıyor.",
+          "status": "passed",
+          "title": "\"Sayı: 0 çift sayıdır\" yazısı ile başlıyor.",
+          "duration": 18,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başlangıç metninin rengi royal blue.",
+          "status": "passed",
+          "title": "Başlangıç metninin rengi royal blue.",
+          "duration": 15,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Artırıcı butonuna basılınca sayı 1er 1er artıyor",
+          "status": "passed",
+          "title": "Artırıcı butonuna basılınca sayı 1er 1er artıyor",
+          "duration": 9,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Artırıcı butonuna 1 kez basılınca metin \"Sayı: 1 tek sayıdır\" oluyor",
+          "status": "passed",
+          "title": "Artırıcı butonuna 1 kez basılınca metin \"Sayı: 1 tek sayıdır\" oluyor",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Artırıcı butonuna 2 kez basılınca metin \"Sayı: 2 çift sayıdır\" oluyor",
+          "status": "passed",
+          "title": "Artırıcı butonuna 2 kez basılınca metin \"Sayı: 2 çift sayıdır\" oluyor",
+          "duration": 4,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Azaltıcı butonuna basılınca sayı 1er 1er azaltıyor",
+          "status": "passed",
+          "title": "Azaltıcı butonuna basılınca sayı 1er 1er azaltıyor",
+          "duration": 5,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Azaltıcı butonuna 1 kez basılınca metin \"Sayı: -1 tek sayıdır\" oluyor",
+          "status": "passed",
+          "title": "Azaltıcı butonuna 1 kez basılınca metin \"Sayı: -1 tek sayıdır\" oluyor",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Azaltıcı butonuna 2 kez basılınca metin \"Sayı: -2 çift sayıdır\" oluyor",
+          "status": "passed",
+          "title": "Azaltıcı butonuna 2 kez basılınca metin \"Sayı: -2 çift sayıdır\" oluyor",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Çift sayılarda metin rengi royal blue oluyor",
+          "status": "passed",
+          "title": "Çift sayılarda metin rengi royal blue oluyor",
+          "duration": 5,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Tek sayılarda metin rengi crimson oluyor",
+          "status": "passed",
+          "title": "Tek sayılarda metin rengi crimson oluyor",
+          "duration": 4,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Reset butonu sayıyı sıfırlıyor",
+          "status": "passed",
+          "title": "Reset butonu sayıyı sıfırlıyor",
+          "duration": 1,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Reset butonu'na basınca metin 'Sayı: 0 çift sayıdır' oluyor",
+          "status": "passed",
+          "title": "Reset butonu'na basınca metin 'Sayı: 0 çift sayıdır' oluyor",
+          "duration": 1,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1723468107133,
+      "endTime": 1723468107203,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/atilimkocak/Documents/My_Projects/Workintech/Sprint-6/Lesson-1/Project-1/src/__tests__/Sayac.test.jsx"
+    },
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başlangıç",
+          "status": "failed",
+          "title": "Başlangıç",
+          "duration": 4,
+          "failureMessages": [
+            "expected false to be true // Object.is equality"
+          ],
+          "location": {
+            "line": 5,
+            "column": 17
+          }
+        }
+      ],
+      "startTime": 1723468107128,
+      "endTime": 1723468107132,
+      "status": "failed",
+      "message": "",
+      "name": "/Users/atilimkocak/Documents/My_Projects/Workintech/Sprint-6/Lesson-1/Project-1/src/__tests__/a.test.js"
+    }
+  ]
+}

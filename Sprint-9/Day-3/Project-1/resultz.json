@@ -1,0 +1,64 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 4,
+  "numPassedTests": 4,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1723463462096,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başarılı login girişinde localStoragea email adresini kaydediyor.",
+          "status": "passed",
+          "title": "Başarılı login girişinde localStoragea email adresini kaydediyor.",
+          "duration": 153,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " localStorageda kayıtlı email adresini email inputuna ekleyerek form açılıyor.",
+          "status": "passed",
+          "title": "localStorageda kayıtlı email adresini email inputuna ekleyerek form açılıyor.",
+          "duration": 147,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " localStorageda kayıtlı email adresi yoksa focus email inputunda açılıyor",
+          "status": "passed",
+          "title": "localStorageda kayıtlı email adresi yoksa focus email inputunda açılıyor",
+          "duration": 101,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " localStorageda kayıtlı email adresi varsa focus password inputunda açılıyor",
+          "status": "passed",
+          "title": "localStorageda kayıtlı email adresi varsa focus password inputunda açılıyor",
+          "duration": 107,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1723463462857,
+      "endTime": 1723463463365,
+      "status": "passed",
+      "message": "",
+      "name": "/Users/atilimkocak/Documents/My_Projects/Workintech/Sprint-9/Lesson-3/Project-1/src/__tests__/index.test.jsx"
+    }
+  ]
+}
